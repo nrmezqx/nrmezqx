@@ -1,7 +1,7 @@
 <h1 align="center">Selam 👋, Ben Nomik...</h1>
 <h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/social media Engineer.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: ```Im online Discord.```</h3>
 <p align="left">
 <a href="https://twitter.com/tcrwlr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomik" height="30" width="40" /></a>
 <a href="https://instagram.com/kumpiryanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomik" height="30" width="40" /></a>
