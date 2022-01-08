@@ -1,7 +1,7 @@
 <h1 align="center">Selam 👋, Ben Nomik...</h1>
 <h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/social media Engineer.</h3>
 
-<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] and [Instagram] so if you want to log in again
+<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
 [contact via dm ✡ nomık#0175].</h3>
 <p align="left">
