@@ -4,7 +4,9 @@
 <h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
 [contact via dm "✡ nomık#0175"].</h3>
+
 ![Discord](https://discord.c99.nl/widget/theme-3/910174577651499069.png)
+
 <p align="left">
 <a href="https://twitter.com/tcrwlr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomik" height="30" width="40" /></a>
 <a href="https://instagram.com/kumpiryanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomik" height="30" width="40" /></a>
