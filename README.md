@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] so if you want to log in again
 contact me then you can best do this by joining [my Discord server] or
-[contact via dm "✡ nomık#0175"].</h3>
+[contact via dm "✡ nomik#0175"].</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/910174577651499069.png)
 
