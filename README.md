@@ -1,5 +1,5 @@
 <h1 align="center">Selam 👋, Ben Nomik...</h1>
-<h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/social media Engineer.</h3>
+<h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/Social Media Engineer.</h3>
 
 <h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] normikomik#7045
 and nomik$#6118</h3>
