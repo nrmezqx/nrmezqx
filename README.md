@@ -1,8 +1,8 @@
 <h1 align="center">Selam 👋, Ben Nomik...</h1>
 <h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/social media Engineer.</h3>
 
-<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] so if you want to log in again
-contact me then you can best do this [contact via dm "nomikkkkkk#1943"].</h3>
+<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] normikomik#7045
+and nomik$#6118</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-3/910174577651499069.png)
 
