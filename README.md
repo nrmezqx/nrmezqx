@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] normikomik#7045
 and nomik$#6118</h3>
 
-![Discord](https://discord.c99.nl/widget/theme-3/910174577651499069.png)
+![Discord](https://discord.c99.nl/widget/theme-1/964889443586674748.png)
 
 <p align="left">
 <a href="https://twitter.com/tcrwlr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomik" height="30" width="40" /></a>
