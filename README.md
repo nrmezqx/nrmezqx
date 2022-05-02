@@ -1,8 +1,7 @@
 <h1 align="center">Selam 👋, Ben Nomik...</h1>
 <h3 align="center">3D,Web Security, Discord Bot Developer,c#/c++/js/Social Media Engineer.</h3>
 
-<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] nOmik$#7045
-and nomik$#6118</h3>
+<h3 align="left">Connect with me: | Note:I'm mostly active on [Discord] nomik;$#2022</h3>
 
 ![Discord](https://discord.c99.nl/widget/theme-1/964889443586674748.png)
 
