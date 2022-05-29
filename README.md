@@ -8,9 +8,7 @@ I will not be active in the virtual environment for a long time, including githu
 ![Discord]"Discordu sildim! Artık o platforma yemin ve yasal zorunluluklardan + kendi kararımdan dolayı girmeyeceğim fakelerime aldırış etmeyiniz!"
 <h3 Discordu kalıcı olarak ve birdaha girmemek üzere kesin olarak sildim! Artık o platforma yemin ve yasal zorunluluklardan + kendi kararımdan dolayı girmeyeceğim fakelerime aldırış etmeyiniz! </h3>
 
-<p align="left">
-<a href="https://twitter.com/tcrwlr0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nomik" height="30" width="40" /></a>
-<a href="https://instagram.com/kumpiryanak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nomik" height="30" width="40" /></a>
+
 
 </p>
 🛠  Software Languages
