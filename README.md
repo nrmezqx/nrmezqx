@@ -1,13 +1,6 @@
 <h1 align="center">Selam 👋, Ben "bıraktım"...</h1>
 <h3 align="center">Dead...</h3>
 
-<h3 align="left">Connect with me: | Note:Uzun bir süre sanal ortamda aktif olmayacağım github buna dahil. Discordu kökten "tamamen-kalıcı" olarak sildim ve bıraktım. Birdaha Discord kullanmayacağım ve Discord'a girmeyeceğim.
-I will not be active in the virtual environment for a long time, including github. I rooted Discord "all-permanently" and left. I will not use Discord again and I will not join Discord.
-</h3>
-
-![Discord]"Discordu sildim! Artık o platforma yemin ve yasal zorunluluklardan + kendi kararımdan dolayı girmeyeceğim fakelerime aldırış etmeyiniz!"
-<h3 Discordu kalıcı olarak ve birdaha girmemek üzere kesin olarak sildim! Artık o platforma yemin ve yasal zorunluluklardan + kendi kararımdan dolayı girmeyeceğim fakelerime aldırış etmeyiniz! </h3>
-
 
 
 </p>
