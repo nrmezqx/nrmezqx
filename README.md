@@ -1,5 +1,5 @@
-<h1 align="center">Selam 👋, Ben "bıraktım"...</h1>
-<h3 align="center">Dead...</h3>
+<h1 align="center">Selam 👋, Ben ""...</h1>
+<h3 align="center">...</h3>
 
 
 
