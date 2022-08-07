@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben ""...</h1>
+<h1 align="center">Selam 👋, Ben Nomik (Kadir Aydoğdu&Kadir Dağ) ""...</h1>
 <h3 align="center">...</h3>
 
 
